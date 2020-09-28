@@ -1,6 +1,7 @@
 var keys = require("../keys.js"); 
-
+var express = require("express");
 var axios = require("axios");
+const app = express();
 
 /* This is the weather api. It provides the daily weather based on the zip code which will need
 to be taken in as a URL param.
@@ -17,7 +18,6 @@ module.exports = function (app) {
 
             })
     });
-Adowell25
 };
 
 
@@ -73,4 +73,4 @@ Adowell25
 
 
 ;
- master
+
