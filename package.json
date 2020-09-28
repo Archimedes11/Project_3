@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
+  "homepage": ".",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
@@ -34,11 +35,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Adowell25/Project_3.git"
+    "url": "git+https://github.com/Archimedes11/Project_3.git"
   },
   "bugs": {
-    "url": "https://github.com/Adowell25/Project_3/issues"
+    "url": "https://github.com/Archimedes11/Project_3/issues"
   },
-  "homepage": "https://github.com/Adowell25/Project_3#readme",
+  
   "devDependencies": {}
 }
