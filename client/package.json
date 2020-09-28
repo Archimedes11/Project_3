@@ -17,6 +17,7 @@
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "fullcalendar": "^5.3.2",
+    "if-env": "^1.0.4",
     "mongoose": "^5.10.7",
     "nodemon": "^2.0.4",
     "react": "^16.13.1",
